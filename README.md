@@ -20,7 +20,7 @@
 
 ---
 ## 시연영상 (Video)
-- [Link](https://www.youtube.com/watch?v=J3XuTqOjkY0)<br>
+- [Link](https://www.youtube.com/watch?v=JS9s4Su1174)<br>
 ---
 
 ## 구조
