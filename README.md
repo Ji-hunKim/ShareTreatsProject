@@ -25,6 +25,8 @@
 
 ## 구조
 - 객체 지향 프로그래밍<br>
+<img width="273" alt="Screen Shot 2023-04-15 at 4 37 07 AM" src="https://user-images.githubusercontent.com/68188361/232139784-51365af2-78ce-47b7-b845-fc8931236aed.png">
+
 
 |    repository   | service | ui | test|
 | :--------: | :--------: | :--------: | :--------: | 
