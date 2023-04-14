@@ -64,8 +64,6 @@ public class ServiceUI {
                     break;
                 // 3. 교환
                 case "claim":
-                    String productCodeStr = "";
-                    String storeCodeStr = "";
                     String inputStr = "";
 
                     for (int i = 1; i < input.length; i++) {
@@ -76,9 +74,9 @@ public class ServiceUI {
                     if(inputStr.length()!= 15) productExchangeService.errorService(3);
                     else {
                         // 상점 코드 6자리
-                        storeCodeStr = inputStr.substring(0,6);
+                        String storeCodeStr = inputStr.substring(0,6);
                         //상품 코드 9자리
-                        productCodeStr = inputStr.substring(6);
+                        String productCodeStr = inputStr.substring(6);
 
 
                         // [1] 상품코드 확인
