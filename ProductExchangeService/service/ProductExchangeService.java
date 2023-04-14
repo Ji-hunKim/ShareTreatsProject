@@ -1,6 +1,6 @@
 package ProductExchangeService.service;
 
-import ProductExchangeService.domain.CodeAndStore;
+import ProductExchangeService.repository.CodeAndStore;
 
 public class ProductExchangeService {
 

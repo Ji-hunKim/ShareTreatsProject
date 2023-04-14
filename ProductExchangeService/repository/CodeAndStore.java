@@ -1,4 +1,4 @@
-package ProductExchangeService.domain;
+package ProductExchangeService.repository;
 
 import java.util.HashMap;
 

@@ -1,11 +1,9 @@
 package ProductExchangeService.ui;
 
-import ProductExchangeService.domain.CodeAndStore;
+import ProductExchangeService.repository.CodeAndStore;
 import ProductExchangeService.service.ProductExchangeService;
 
-import java.util.Collections;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class ServiceUI {
     private final CodeAndStore codeAndStore = new CodeAndStore();
